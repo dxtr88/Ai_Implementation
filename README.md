@@ -70,18 +70,17 @@ Note: we did not push the data because it is too big, but you can run the traine
 
 ## Getting Started
 
+## Getting Started
+
 1. **Setup**:
    - Ensure you have Python and necessary libraries installed.
    - Clone the repository and navigate to the project directory.
 
-2. **Train the model**:
-   - Run the `main()` function in `local_model_for_predecting_succsess_rate.py` to preprocess data and train the model.
-
-3. **Start the API**:
+2. **Start the API**:
    - Run `model_server.py` to start the Flask server.
    - Access the API at `http://localhost:6969`.
 
-4. **Make Predictions**:
+3. **Make Predictions**:
    - Use the `/predict` endpoint to submit business data and receive success probabilities.
 
 ## Example Usage
