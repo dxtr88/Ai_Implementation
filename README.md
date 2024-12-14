@@ -22,7 +22,7 @@ The Crunchbase data serves as a robust foundation for training our machine learn
 
 By integrating this dataset, our model can offer insights that are grounded in real-world business dynamics, making it a valuable tool for understanding the factors that contribute to business success.
 
-note:we did not push the data because it is too big, but you can run the trained model without any problems
+Note: we did not push the data because it is too big, but you can run the trained model without any problems
 
 ## How It Works
 
